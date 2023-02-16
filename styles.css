@@ -124,6 +124,10 @@ justify-content: center;
       footer {
         margin-top: 20px;
       }
+.price:hover {
+color: goldenrod;
+font-size: 230%;
+      }
     @media only screen and (max-width: 375px) {
         .card {
           width: 241px;
